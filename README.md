@@ -49,9 +49,6 @@ Here’s a brief description of each notebook in this repository:
 - Implements a **Variational Quantum Classifier (VQC)** for binary classification tasks.
 - Demonstrates the use of parameterized quantum circuits in machine learning.
 
-### 8. [Untitled.ipynb](#untitledipynb)
-- (Add a description here once you finalize the content of this notebook.)
-
 ---
 
 ## Getting Started
